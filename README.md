@@ -1,8 +1,9 @@
 # multithreadDownload
-a multithreading example for downloading images from imgur
+A multithreading example for downloading images from imgur
 
 
-fill the username, client_id and password in multithread.py and run on the command line:
+
+Fill the username, client_id and password in multithread.py and run on the command line:
 
 python -m multithreadDownload-master.multithread 4
 
