@@ -61,7 +61,7 @@ def main():
    print('Took {}'.format(time() - ts))
    
 #to run this on the command line, tpye 
-#python -m multithreadDownload.multithread numOfThreads  
+#python -m multithreadDownload-master.multithread numOfThreads  
 if __name__ == '__main__':
     
    main()
